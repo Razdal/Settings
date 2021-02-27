@@ -1,0 +1,70 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "prettier.tabWidth": 4,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "vetur.format.options.tabSize": 4,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.printWidth": 120,
+    "prettier.proseWrap": "never",
+    "zenMode.centerLayout": false,
+    "editor.minimap.enabled": false,
+    "editor.folding": false,
+    "editor.detectIndentation": false,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "gitlens.currentLine.pullRequests.enabled": false,
+    "gitlens.currentLine.scrollable": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[glsl]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "vs-kubernetes": {
+        "vs-kubernetes.minikube-path.windows": "C:\\Users\\selim\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
+        "vs-kubernetes.helm-path.windows": "C:\\Users\\selim\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+        "vs-kubernetes.draft-path.windows": "C:\\Users\\selim\\.vs-kubernetes\\tools\\draft\\windows-amd64\\draft.exe"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "cSpell.userWords": [
+        "Roboto",
+        "chakra",
+        "provider",
+        "selim",
+        "yesilkaya"
+    ],
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": -1,
+}
